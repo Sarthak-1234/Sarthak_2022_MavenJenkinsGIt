@@ -23,6 +23,7 @@ public class AllTestCases {
 	@Test
 	public void RegressionTestB() {
 		System.out.println("Regression Testcase B");
+		//test
 	}
 	
 }
