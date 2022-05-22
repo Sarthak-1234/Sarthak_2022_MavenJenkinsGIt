@@ -7,6 +7,7 @@ public class AllTestCases {
 	@Test
 	public void SanityTestA() {
 		System.out.println("Sanity Testcase A");
+		System.out.println(System.getenv("keyUsingConfig"));
 	}
 	
 	@Test
